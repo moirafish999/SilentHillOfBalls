@@ -1,0 +1,4 @@
+repository "project1@moirafish@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
